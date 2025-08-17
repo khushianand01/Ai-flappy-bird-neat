@@ -3,7 +3,7 @@ import random
 import neat
 import os
 import pygame
-import visualize
+# import visualize
 import pickle
 pygame.font.init()
 
