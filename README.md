@@ -1,9 +1,10 @@
-# AutoFlap 🐦🤖
+#AutoFlap 🐦🤖
 
 An AI-powered Flappy Bird game where the bird learns to play automatically using Reinforcement Learning and Neural Networks.
 
 
-# 🚀 Features
+
+#🚀 Features
 
 ● AI agent learns to play Flappy Bird without human intervention
 
