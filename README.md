@@ -33,7 +33,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ├── README.md          # Project documentation  
 
 
-## Installation
+## 🚀 Run the Project
 
 1. Clone the repository
    ```bash
