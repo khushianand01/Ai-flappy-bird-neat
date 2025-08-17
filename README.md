@@ -31,19 +31,13 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ├── train.py           # Training script for the AI agent  
 ├── README.md          # Project documentation  
 
-⚡ How to Run
+## Installation
 
-● Clone the repository
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/AutoFlap.git
+   cd AutoFlap
 
-git clone https://github.com/your-username/AutoFlap.git
-cd AutoFlap
-
-● Install dependencies
-
-● pip install -r requirements.txt
-
-● Run the game with AI
-python game.py
 
 
 📖 How it Works
