@@ -1,10 +1,10 @@
-#AutoFlap 🐦🤖
+# AutoFlap 🐦🤖
 
 An AI-powered Flappy Bird game where the bird learns to play automatically using Reinforcement Learning and Neural Networks.
 
 
 
-#🚀 Features
+# 🚀 Features
 
 ● AI agent learns to play Flappy Bird without human intervention
 
@@ -15,7 +15,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ● Python implementation
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ● Python 🐍
 
@@ -26,7 +26,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ● Pickle 📦 – for saving and loading trained models
 
 
-📂 Project Structure
+# 📂 Project Structure
 ├── best.pickle        # Saved trained model  
 ├── game.py            # Main game file  
 ├── train.py           # Training script for the AI agent  
@@ -38,8 +38,12 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
    ```bash
    git clone https://github.com/your-username/AutoFlap.git
    cd AutoFlap
-
-
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the game with AI
+    ```bash
+    python game.py
 
 📖 How it Works
 
