@@ -4,7 +4,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 
 
 
-# 🚀 Features
+## 🚀 Features
 
 ● AI agent learns to play Flappy Bird without human intervention
 
@@ -15,7 +15,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ● Python implementation
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ● Python 🐍
 
@@ -26,11 +26,12 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ● Pickle 📦 – for saving and loading trained models
 
 
-# 📂 Project Structure
+## 📂 Project Structure
 ├── best.pickle        # Saved trained model  
 ├── game.py            # Main game file  
 ├── train.py           # Training script for the AI agent  
 ├── README.md          # Project documentation  
+
 
 ## Installation
 
@@ -45,7 +46,8 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
     ```bash
     python game.py
 
-📖 How it Works
+
+## 📖 How it Works
 
 ● The bird is controlled by a Neural Network
 
