@@ -2,6 +2,7 @@
 
 An AI-powered Flappy Bird game where the bird learns to play automatically using Reinforcement Learning and Neural Networks.
 
+
 🚀 Features
 
 ● AI agent learns to play Flappy Bird without human intervention
@@ -12,6 +13,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 
 ● Python implementation
 
+
 🛠️ Tech Stack
 
 ● Python 🐍
@@ -21,6 +23,7 @@ An AI-powered Flappy Bird game where the bird learns to play automatically using
 ● TensorFlow / Keras 🧠 – for building the Neural Network
 
 ● Pickle 📦 – for saving and loading trained models
+
 
 📂 Project Structure
 ├── best.pickle        # Saved trained model  
@@ -42,10 +45,11 @@ cd AutoFlap
 ● Run the game with AI
 python game.py
 
+
 📖 How it Works
 
-The bird is controlled by a Neural Network
+● The bird is controlled by a Neural Network
 
-The AI improves using Reinforcement Learning (trial & error)
+● The AI improves using Reinforcement Learning (trial & error)
 
-The best model is stored in best.pickle
+● The best model is stored in best.pickle
